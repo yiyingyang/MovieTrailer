@@ -8,12 +8,11 @@ toy_story = Movie("Toy Story",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
 
-avatar = Movie(
-    "Avatar", 
-    "A marine on an alien planet",
-    "2009",
-    "http://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
-    "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
+avatar = Movie("Avatar", 
+                  "A marine on an alien planet",
+                  "2009",
+                  "http://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+                  "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
 
 back_to_the_future = Movie("Back to the Future",
                                  "A young man is accidentally sent 30 years into the past in a time-traveling DeLorean.",
